@@ -10,11 +10,10 @@ screen (press Enter to advance through the list).
 
 import random
 
-students_list = ['Yara', 'David', 'Yaiza', 'Jair', 'Kenia',
-                 'Eva', 'Carol', 'Youseff', 'Arantza', 'Chaimae',
-                 'Nerea', 'Iván', 'Miriam', 'Andrea', 'Ling',
-                 'Fran', 'Nora', 'Saray', 'Raquel', 'Alba',
-                 'Alba', 'Álex', 'Amy', 'Manel', 'Enis']
+students_list = ['Álex','Amy', 'Alba', 'Andrea', 'Arantza', 'Carol',
+                 'Chaimae', 'David', 'Enis', 'Eva', 'Fran', 'Iván', 'Jair',
+                 'Kenia', 'Ling', 'Manel', 'Miriam', 'Nerea', 'Nora', 'Raquel',
+                 'Saray', 'Yaiza', 'Yara', 'Youseff']
 
 student_number_assignment = {}
 
